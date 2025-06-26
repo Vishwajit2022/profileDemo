@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Tejas+Chaudhari">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Vishwajit+Kadlag">
 </h1>
 
 <h3 align="center">Embedded Software Developer</h3>
@@ -46,17 +46,17 @@
 <hr>
 <!-- Total Contributions and GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishwajit2022&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak: Current and longest streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajit2022&theme=default" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejaschaudhari457&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwajit2022&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 
@@ -69,15 +69,15 @@
 <hr>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejaschaudhari457&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vishwajit2022&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tejaschaudhari457&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vishwajit2022&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejaschaudhari457" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Vishwajit2022" alt="GitHub Streak" />
 </p>
 
 <hr/>
